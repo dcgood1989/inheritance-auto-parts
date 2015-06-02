@@ -2,7 +2,7 @@ require 'spec_helper'
 
 describe Part do
   describe "#attributes" do
-    it 'returns the proper values for the part' do
+  it 'returns the proper values for the part' do
       manufacturer = 'AMC'
       number = '12384ANJ23'
       description = 'Alternator for Gremlin X'
